@@ -1,4 +1,4 @@
-# Research: Improving Bounding Box and Label Predictions in LiDAR Images
+# Improving Bounding Box and Label Predictions in LiDAR Images
 
 This project aims to present improvements to existing methods for predicting bounding boxes and labels of objects in LiDAR images. These enhancements are crucial for real-world applications such as autonomous driving, by improving how autonomous cars perceive and predict objects in a given frame. Our research employs a mix of strategies, such as saliency maps for data augmentation, implementing current deep learning architectures, and incorporating Focal Loss for better minority class prediction. We focus on improving upon the KITI dataset.
 
